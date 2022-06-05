@@ -1,0 +1,8 @@
+date,airline,ch_code,num_code,dep_time,time_taken,stop,arr_time,type,route,TicketCategory
+12/2/2022,Vistara,UK,852,9:30,11h 10m,"1-stop
+												
+												",20:40,economy,"{'source': 'Bangalore', 'destination': 'Delhi'}",moderate
+3/3/2022,Indigo,6E,248,22:20,02h 05m,non-stop ,0:25,economy,"{'source': 'Mumbai', 'destination': 'Delhi'}",cheap
+19-03-2022,Air India,AI,570,5:20,07h 40m,"1-stop
+												
+												",13:00,economy,"{'source': 'Mumbai', 'destination': 'Delhi'}",cheap
