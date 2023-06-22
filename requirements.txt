@@ -4,7 +4,7 @@ pandas
 streamlit
 matplotlib
 seaborn
-scikit-learn == 1.2.1
+scikit-learn == 1.0.2
 datasist
-xgboost
+xgboost==1.6.2
 lightgbm
