@@ -1,0 +1,10 @@
+joblib
+numpy
+pandas
+streamlit
+matplotlib
+seaborn
+scikit-learn == 1.2.1
+datasist
+xgboost
+lightgbm
